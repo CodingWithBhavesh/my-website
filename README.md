@@ -1,3 +1,3 @@
 # my-website
 <br>
-Authos-bhavesh bansal
+Author-bhavesh bansal
